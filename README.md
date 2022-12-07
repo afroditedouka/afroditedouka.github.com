@@ -1,2 +1,2 @@
-# afroditedouka.github.com
+# afroditedouka.github.io
 My very first website
